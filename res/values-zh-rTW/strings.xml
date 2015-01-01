@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <string name="app_description">開發by SERAJR(2014)，僅適用于4.1+系統</string>
+    <string name="app_description">由SERAJR(2014)開發，僅適用於4.1+系統</string>
     
     <string name="theme_menu_title">應用主題</string>
     <string name="theme_menu_message">重啟應用程序以使主題生效！！</string>
     <string name="light_theme_title">亮色</string>
     <string name="dark_theme_title">暗色</string>
-    <string name="about_menu_title">關于</string>
+    <string name="about_menu_title">關於</string>
     <string name="exit_menu_title">退出</string>
     <string name="restart_menu_title">重啟SystemUI</string>
     <string name="restart_menu_message">"系統用戶界面將會重啟！
